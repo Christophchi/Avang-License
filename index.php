@@ -1,7 +1,7 @@
 <?php
 require_once 'inc.php';
 
-use Bcoded\Avang\Facades\Booted;
+use Codedwebltd\AvangLicense\Facades\Booted;
 use Carbon\Carbon;
 
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Bcoded\Avang\Facades;
+namespace Codedwebltd\AvangLicense\Facades;
 
 class Booted
 {

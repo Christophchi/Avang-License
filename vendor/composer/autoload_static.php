@@ -38,12 +38,9 @@ class ComposerStaticInit876108cedc4f11d7a6455101c2dfcdd2
         ),
         'C' => 
         array (
+            'Codedwebltd\\AvangLicense\\' => 25,
             'Carbon\\Doctrine\\' => 16,
             'Carbon\\' => 7,
-        ),
-        'B' => 
-        array (
-            'Bcoded\\Avang\\' => 13,
         ),
     );
 
@@ -84,6 +81,10 @@ class ComposerStaticInit876108cedc4f11d7a6455101c2dfcdd2
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
+        'Codedwebltd\\AvangLicense\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Carbon\\Doctrine\\' => 
         array (
             0 => __DIR__ . '/..' . '/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine',
@@ -91,10 +92,6 @@ class ComposerStaticInit876108cedc4f11d7a6455101c2dfcdd2
         'Carbon\\' => 
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
-        ),
-        'Bcoded\\Avang\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
