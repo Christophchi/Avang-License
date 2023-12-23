@@ -40,6 +40,6 @@ To use this script, download or require the package as the base of your project.
 For bug fixes or support, contact [support@codedwebltd.org](mailto:support@codedwebltd.org) or open a pull request following best practices for easy merging.
 
 ### Acknowledgment
-If this script helped you, consider supporting the author by [buying a coffee](https://example.com/buy-me-a-coffee).
+If this script helped you, consider supporting the author by [buying a coffee](https://christopher.codedwebltd.org/#contacts-card). Feel free to contact me for preferred payment info using the link above..
 
 ---
